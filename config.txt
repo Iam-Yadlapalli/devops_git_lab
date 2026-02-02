@@ -1,0 +1,3 @@
+Name = Hari
+age = 31
+occupation = Software engineer
