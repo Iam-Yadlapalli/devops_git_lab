@@ -1,0 +1,9 @@
+I am learning devops engierr course as I want to become debops enginer expert. So i started with Linux and their basic commands. To do this I created a aws account and provisioned the EC2 instance.
+
+
+region = us-east-1
+AMI= Amazon linux
+environment = Dev
+Instancetype = t3.micro
+
+
